@@ -1,4 +1,4 @@
-# STATS202
+# STATS202: DATA MINING AND ANALYSIS
 
 This repository contains files related to STATS 202 Data Mining Project.
 
